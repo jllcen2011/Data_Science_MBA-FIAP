@@ -85,13 +85,13 @@ Handled with Geographic Information Systems (GIS) and other geospatial data proc
 
 In a world where understanding customer sentiment is key to business success, our team embarked on an ambitious project with Petz S.A., Brazil’s growing pet market leader. Our goal? To harness the power of data and machine learning to provide deep insights into customer experiences and preferences.
 
-#### The Challenge:
+#### - The Challenge:
 The pet industry in Brazil has shown remarkable growth, with Petz S.A. at the forefront. In this rapidly evolving landscape, understanding customer sentiment and journey became vital. We aimed to develop a model that could prioritize customer perspectives, derived from public domains like social media and review sites, and correlate them with sales volume and customer loyalty.
 
-#### Our Approach:
+#### - Our Approach:
 We dove into the world of sentiment analysis, employing techniques to extract subjective information from web-based natural language texts. Our focus was on Twitter, where personal opinions about Petz S.A. flourish. By mining these tweets, we aimed to gain insights that could shape Petz’s marketing strategies and product offerings.
 
-#### Technologies and Tools:
+#### - Technologies and Tools:
 
 Our journey involved a suite of advanced technologies:
 
@@ -113,10 +113,10 @@ To manage integrated code, data, and models for streamlined development, testing
 #### Data Visualization:
 Using Power BI for powerful analytics and insights.
 
-#### Outcomes and Benefits:
+#### - Outcomes and Benefits:
 Despite challenges like subjectivity and informal language, our model is set to revolutionize how Petz S.A. understands its customers. From customizing marketing strategies to identifying gaps in products and services, our solution offers Petz a competitive edge through actionable market insights.
 
-#### Conclusion:
+#### - Conclusion:
 Our project with Petz S.A. is more than just data analysis — it’s about bringing customer voices directly to the decision-making table. By leveraging cutting-edge machine and deep learning techniques, we’ve opened new avenues for Petz to connect with their clientele on a deeper level.
 
 ### Medium Link: https://medium.com/@jllcen2011/data-science-mba-final-project-81b3b07ef34f
