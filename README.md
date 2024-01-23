@@ -38,3 +38,15 @@ Subsequently, applying Association Rule Learning in R on the Kaggle Groceries da
 
 
 ## 2) Deep Learning Projects:
+
+### 2.1) Convolutional Neural Networks:
+Utilizing the CNN model for image recognition and classification.
+
+### 2.2) Self Organizing Map (SOM):
+This is a type of traditional neural network, distinct from deep learning, and categorized under unsupervised learning. It is employed here for processing and reconstructing images.
+
+### 2.3) Generative Adversarial Network (GAN):
+GAN is trained using the MNIST dataset to create new images of handwritten digits, representing numbers from one to nine.
+
+### 2.4) Transfer Learning:
+Employing the Transfer Learning approach for the recognition and classification of images, specifically those of dogs and cats.
