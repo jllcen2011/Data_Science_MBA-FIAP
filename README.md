@@ -35,3 +35,6 @@ Finally, the Naive Bayes approach, specifically the Categorical Naive Bayes mode
 Initially, engaging in Cluster Analysis and Data Summarization using the R programming language on the Kaggle Olympics Running Events dataset.
 
 Subsequently, applying Association Rule Learning in R on the Kaggle Groceries dataset, utilizing the Apriori algorithm.
+
+
+## 2) Deep Learning Projects:
