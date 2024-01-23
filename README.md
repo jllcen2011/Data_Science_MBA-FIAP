@@ -24,9 +24,11 @@
 ### 1.2) Machine Learning itself:
 1.2.1- Supervised Learning Techniques:
 
-Firstly, utilizing KNN (K-Nearest Neighbors) and SVM (Support Vector Machine) techniques with the R programming language on the Kaggle Adult dataset. This involves comparing the results using these techniques, both with and without cross-validation.
+Initially, utilizing KNN (K-Nearest Neighbors) and SVM (Support Vector Machine) techniques with the R programming language on the Kaggle Adult dataset. This involves comparing the results using these techniques, both with and without cross-validation.
     
-Then, applying Penalized Regression in R on the Kaggle Train dataset. This phase involves comparing results after using models such as Lasso Regression (L1 regularization) and Ridge Regression (L2 regularization).
+Subsequently, applying Penalized Regression in R on the Kaggle Train dataset. This phase involves comparing results after using models such as Lasso Regression (L1 regularization) and Ridge Regression (L2 regularization).
+
+Finally, the Naive Bayes approach, specifically the Categorical Naive Bayes model, is implemented in Python on the Kaggle Adult dataset. This involves an extensive exploratory analysis, followed by the application of this supervised classification technique. 
 
 1.2.2- Unsupervised Learning Techniques:
 
