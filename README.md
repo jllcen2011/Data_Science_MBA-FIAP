@@ -24,12 +24,12 @@
 ### 1.2) Machine Learning itself:
 1.2.1- Supervised Learning Techniques:
 
-    Firstly, utilizing KNN (K-Nearest Neighbors) and SVM (Support Vector Machine) techniques with the R programming language on the Kaggle Adult dataset. This involves comparing the results using these techniques, both with and without cross-validation.
+Firstly, utilizing KNN (K-Nearest Neighbors) and SVM (Support Vector Machine) techniques with the R programming language on the Kaggle Adult dataset. This involves comparing the results using these techniques, both with and without cross-validation.
     
-    Then, applying Penalized Regression in R on the Kaggle Train dataset. This phase involves comparing results after using models such as Lasso Regression (L1 regularization) and Ridge Regression (L2 regularization).
+Then, applying Penalized Regression in R on the Kaggle Train dataset. This phase involves comparing results after using models such as Lasso Regression (L1 regularization) and Ridge Regression (L2 regularization).
 
 1.2.2- Unsupervised Learning Techniques:
 
-    Initially, engaging in Cluster Analysis and Data Summarization using the R programming language on the Kaggle Olympics Running Events dataset.
+Initially, engaging in Cluster Analysis and Data Summarization using the R programming language on the Kaggle Olympics Running Events dataset.
 
-    Subsequently, applying Association Rule Learning in R on the Kaggle Groceries dataset, utilizing the Apriori algorithm.
+Subsequently, applying Association Rule Learning in R on the Kaggle Groceries dataset, utilizing the Apriori algorithm.
