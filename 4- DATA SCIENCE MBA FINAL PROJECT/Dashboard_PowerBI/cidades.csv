@@ -1,0 +1,283 @@
+;id_cidade;cidade;estado;UF
+0;1;Campinas;São Paulo;SP
+1;2;Curitiba;Paraná;PR
+2;3;São Paulo;São Paulo;SP
+3;4;Fortaleza;Ceará;CE
+4;5;Rio de Janeiro;Rio de Janeiro;RJ
+5;6;Florianópolis;Santa Catarina;SC
+6;7;Canoas;Rio Grande do Sul;RS
+7;8;Teresina;Piauí;PI
+8;9;Porto Alegre;Rio Grande do Sul;RS
+9;10;Osasco;São Paulo;SP
+10;11;São Caetano do Sul;São Paulo;SP
+11;12;Gama;Distrito Federal;DF
+12;13;Manaus;Amazonas;AM
+13;14;Palmas;Tocantins;TO
+14;15;Santarém;Pará;PA
+15;16;Belo Horizonte;Minas Gerais;MG
+16;17;Ribeirão Preto;São Paulo;SP
+17;18;Uberlândia;Minas Gerais;MG
+18;19;Bauru;São Paulo;SP
+19;20;Pelotas;Rio Grande do Sul;RS
+20;21;Nova Friburgo;Rio de Janeiro;RJ
+21;22;Planaltina;Distrito Federal;DF
+22;23;Blumenau;Santa Catarina;SC
+23;24;São Luís;Maranhão;MA
+24;25;Campo Grande;Mato Grosso do Sul;MS
+25;26;Foz do Iguaçu;Paraná;PR
+26;27;Brasília;Distrito Federal;DF
+27;28;Piracicaba;São Paulo;SP
+28;29;Recife;Pernambuco;PE
+29;30;Santa Luzia;Minas Gerais;MG
+30;31;Joinville;Santa Catarina;SC
+31;32;Niterói;Rio de Janeiro;RJ
+32;33;Guarulhos;São Paulo;SP
+33;34;Diadema;São Paulo;SP
+34;35;Duque de Caxias;Rio de Janeiro;RJ
+35;36;Goiânia;Goiás;GO
+36;37;Maceió;Alagoas;AL
+37;38;Cuiabá;Mato Grosso;MT
+38;39;Itu;São Paulo;SP
+39;40;Aracruz;Espírito Santo;ES
+40;41;São Bernardo do Campo;São Paulo;SP
+41;42;Vila Velha;Espírito Santo;ES
+42;43;Santo André;São Paulo;SP
+43;44;Guarujá;São Paulo;SP
+44;45;São Vicente;São Paulo;SP
+45;46;Olinda;Pernambuco;PE
+46;47;Salvador;Bahia;BA
+47;48;Barreiras;Bahia;BA
+48;49;Santos;São Paulo;SP
+49;50;Natal;Rio Grande do Norte;RN
+50;51;Petrolina;Pernambuco;PE
+51;52;Jacareí;São Paulo;SP
+52;53;Contagem;Minas Gerais;MG
+53;54;Juiz de Fora;Minas Gerais;MG
+54;55;Santa Maria;Rio Grande do Sul;RS
+55;56;Mogi das Cruzes;São Paulo;SP
+56;57;Ananindeua;Pará;PA
+57;58;Rondonópolis;Mato Grosso;MT
+58;59;Ponta Grossa;Paraná;PR
+59;60;Santa Bárbara d'Oeste;São Paulo;SP
+60;61;Hortolândia;São Paulo;SP
+61;62;Sertãozinho;São Paulo;SP
+62;63;São Leopoldo;Rio Grande do Sul;RS
+63;64;Belém;Pará;PA
+64;65;Ribeirão Pires;São Paulo;SP
+65;66;Presidente Prudente;São Paulo;SP
+66;67;São Carlos;São Paulo;SP
+67;68;Itajaí;Santa Catarina;SC
+68;69;Rio Grande;Rio Grande do Sul;RS
+69;70;Cascavel;Paraná;PR
+70;71;Cubatão;São Paulo;SP
+71;72;Atibaia;São Paulo;SP
+72;73;Belford Roxo;Rio de Janeiro;RJ
+73;74;São José do Rio Preto;São Paulo;SP
+74;75;São João de Meriti;Rio de Janeiro;RJ
+75;76;Campina Grande;Paraíba;PB
+76;77;Peruíbe;São Paulo;SP
+77;78;Colombo;Paraná;PR
+78;79;Criciúma;Santa Catarina;SC
+79;80;João Pessoa;Paraíba;PB
+80;81;Sorocaba;São Paulo;SP
+81;82;Barcarena;Pará;PA
+82;83;Macapá;Amapá;AP
+83;84;Santiago;Región Metropolitana de Santiago;
+84;85;Balneário Camboriú;Santa Catarina;SC
+85;86;Vitória da Conquista;Bahia;BA
+86;87;Córdoba;Córdoba;
+87;88;Ilhéus;Bahia;BA
+88;89;Praia Grande;São Paulo;SP
+89;90;Franca;São Paulo;SP
+90;91;Valparaíso de Goiás;Goiás;GO
+91;92;São José dos Pinhais;Paraná;PR
+92;93;Vitória;Espírito Santo;ES
+93;94;Muriaé;Minas Gerais;MG
+94;95;Petrópolis;Rio de Janeiro;RJ
+95;96;São Gonçalo;Rio de Janeiro;RJ
+96;97;Guaratinguetá;São Paulo;SP
+97;98;Juazeiro;Bahia;BA
+98;99;Barueri;São Paulo;SP
+99;100;Pinhais;Paraná;PR
+100;101;Cariacica;Espírito Santo;ES
+101;102;Londrina;Paraná;PR
+102;103;Nova Iguaçu;Rio de Janeiro;RJ
+103;104;Betim;Minas Gerais;MG
+104;105;Sabará;Minas Gerais;MG
+105;106;Rio Branco;Acre;AC
+106;107;Tubarão;Santa Catarina;SC
+107;108;Jaraguá do Sul;Santa Catarina;SC
+108;109;Cotia;São Paulo;SP
+109;110;Maringá;Paraná;PR
+110;111;Tatuí;São Paulo;SP
+111;112;Valinhos;São Paulo;SP
+112;113;Cabo de Santo Agostinho;Pernambuco;PE
+113;114;Sete Lagoas;Minas Gerais;MG
+114;115;Macaé;Rio de Janeiro;RJ
+115;116;Botucatu;São Paulo;SP
+116;117;Indaiatuba;São Paulo;SP
+117;118;Mauá;São Paulo;SP
+118;119;Parnaíba;Piauí;PI
+119;120;São José dos Campos;São Paulo;SP
+120;121;Carapicuíba;São Paulo;SP
+121;122;Campos dos Goytacazes;Rio de Janeiro;RJ
+122;123;Ribeirão das Neves;Minas Gerais;MG
+123;124;Jaboatão dos Guararapes;Pernambuco;PE
+124;125;Araruama;Rio de Janeiro;RJ
+125;126;Bento Gonçalves;Rio Grande do Sul;RS
+126;127;Colatina;Espírito Santo;ES
+127;128;Catanduva;São Paulo;SP
+128;129;Cabo Frio;Rio de Janeiro;RJ
+129;130;Jaú;São Paulo;SP
+130;131;Campos do Jordão;São Paulo;SP
+131;132;Aracaju;Sergipe;SE
+132;133;Ji-Paraná;Rondônia;RO
+133;134;São José;Santa Catarina;SC
+134;135;Feira de Santana;Bahia;BA
+135;136;Águas Lindas de Goiás;Goiás;GO
+136;137;Paulo Afonso;Bahia;BA
+137;138;Volta Redonda;Rio de Janeiro;RJ
+138;139;Parintins;Amazonas;AM
+139;140;Arapiraca;Alagoas;AL
+140;141;Passo Fundo;Rio Grande do Sul;RS
+141;142;Jundiaí;São Paulo;SP
+142;143;Taubaté;São Paulo;SP
+143;144;Poços de Caldas;Minas Gerais;MG
+144;145;Barbacena;Minas Gerais;MG
+145;146;Lauro de Freitas;Bahia;BA
+146;147;Caxias do Sul;Rio Grande do Sul;RS
+147;148;Serra;Espírito Santo;ES
+148;149;Araraquara;São Paulo;SP
+149;150;Boa Vista;Roraima;RR
+150;151;Sumaré;São Paulo;SP
+151;152;Uberaba;Minas Gerais;MG
+152;153;Americana;São Paulo;SP
+153;154;Parnamirim;Rio Grande do Norte;RN
+154;155;Queimados;Rio de Janeiro;RJ
+155;156;Camaragibe;Pernambuco;PE
+156;157;Lavras;Minas Gerais;MG
+157;158;Jandira;São Paulo;SP
+158;159;Resende;Rio de Janeiro;RJ
+159;160;Rio das Ostras;Rio de Janeiro;RJ
+160;161;Limeira;São Paulo;SP
+161;162;Almirante Tamandaré;Paraná;PR
+162;163;Caraguatatuba;São Paulo;SP
+163;164;Anápolis;Goiás;GO
+164;165;São Francisco de Itabapoana;Rio de Janeiro;RJ
+165;166;Viamão;Rio Grande do Sul;RS
+166;167;Cachoeirinha;Rio Grande do Sul;RS
+167;168;Angra dos Reis;Rio de Janeiro;RJ
+168;169;Corrientes;Corrientes;
+169;170;Salto;São Paulo;SP
+170;171;Santana de Parnaíba;São Paulo;SP
+171;172;Pindamonhangaba;São Paulo;SP
+172;173;Valparaíso;Región de Valparaíso;
+173;174;Gravataí;Rio Grande do Sul;RS
+174;175;Cochabamba;Cochabamba;
+175;176;Vespasiano;Minas Gerais;MG
+176;177;Teresópolis;Rio de Janeiro;RJ
+177;178;Paulista;Pernambuco;PE
+178;179;Itabira;Minas Gerais;MG
+179;180;Sumidouro;Rio de Janeiro;RJ
+180;181;Rio Verde;Goiás;GO
+181;182;Novo Hamburgo;Rio Grande do Sul;RS
+182;183;Linhares;Espírito Santo;ES
+183;184;Divinópolis;Minas Gerais;MG
+184;185;Camaçari;Bahia;BA
+185;186;Araçatuba;São Paulo;SP
+186;187;Jataí;Goiás;GO
+187;188;Garanhuns;Pernambuco;PE
+188;189;Itatiba;São Paulo;SP
+189;190;Paragominas;Pará;PA
+190;191;Paranaguá;Paraná;PR
+191;192;Novo Gama;Goiás;GO
+192;193;Sinop;Mato Grosso;MT
+193;194;Jaguariaíva;Paraná;PR
+194;195;Embu das Artes;São Paulo;SP
+195;196;Caruaru;Pernambuco;PE
+196;197;Barretos;São Paulo;SP
+197;198;Paulínia;São Paulo;SP
+198;199;Goiana;Pernambuco;PE
+199;200;Alvorada;Rio Grande do Sul;RS
+200;201;Distrito Sede de Chapecó;Santa Catarina;SC
+201;202;Guarapuava;Paraná;PR
+202;203;Catalão;Goiás;GO
+203;204;Montes Claros;Minas Gerais;MG
+204;205;Marília;São Paulo;SP
+205;206;Realeza;Paraná;PR
+206;207;Mesquita;Rio de Janeiro;RJ
+207;208;Várzea Grande;Mato Grosso;MT
+208;209;Itabuna;Bahia;BA
+209;210;São Fidélis;Rio de Janeiro;RJ
+210;211;Itaboraí;Rio de Janeiro;RJ
+211;212;Birigui;São Paulo;SP
+212;213;Taboão da Serra;São Paulo;SP
+213;214;Rio Claro;São Paulo;SP
+214;215;Fazenda Rio Grande;Paraná;PR
+215;216;Lages;Santa Catarina;SC
+216;217;Magé;Rio de Janeiro;RJ
+217;218;Maricá;Rio de Janeiro;RJ
+218;219;Araripina;Pernambuco;PE
+219;220;Juazeiro do Norte;Ceará;CE
+220;221;Porto Velho;Rondônia;RO
+221;222;Francisco Morato;São Paulo;SP
+222;223;Pouso Alegre;Minas Gerais;MG
+223;224;Arica;Región de Arica y Parinacota;
+224;225;Tangará da Serra;Mato Grosso;MT
+225;226;Dourados;Mato Grosso do Sul;MS
+226;227;Brusque;Santa Catarina;SC
+227;228;Apucarana;Paraná;PR
+228;229;Altamira;Pará;PA
+229;230;Patos de Minas;Minas Gerais;MG
+230;231;Iquitos;Loreto;
+231;232;Suzano;São Paulo;SP
+232;233;São João da Barra;Rio de Janeiro;RJ
+233;234;Recanto das Emas;Distrito Federal;DF
+234;235;Illapel;Región de Coquimbo;
+235;236;Porto Seguro;Bahia;BA
+236;237;Nilópolis;Rio de Janeiro;RJ
+237;238;Itapecerica da Serra;São Paulo;SP
+238;239;Ourinhos;São Paulo;SP
+239;240;Governador Valadares;Minas Gerais;MG
+240;241;Bragança;Pará;PA
+241;242;Caucaia;Ceará;CE
+242;243;Mossoró;Rio Grande do Norte;RN
+243;244;Poá;São Paulo;SP
+244;245;Artigas;Artigas;
+245;246;Parauapebas;Pará;PA
+246;247;Votorantim;São Paulo;SP
+247;248;Marabá;Pará;PA
+248;249;Luziânia;Goiás;GO
+249;250;Abreu e Lima;Pernambuco;PE
+250;251;Assis;São Paulo;SP
+251;252;Itapevi;São Paulo;SP
+252;253;Uruguaiana;Rio Grande do Sul;RS
+253;254;Ciudad del Este;Alto Paraná;
+254;255;Várzea Paulista;São Paulo;SP
+255;256;Bragança Paulista;São Paulo;SP
+256;257;Perímetro Urbano Villavicencio;Meta;
+257;258;Coronel Fabriciano;Minas Gerais;MG
+258;259;Plano Piloto;Distrito Federal;DF
+259;260;Teófilo Otoni;Minas Gerais;MG
+260;261;Cambé;Paraná;PR
+261;262;Maipú;Mendoza;
+262;263;Ferraz de Vasconcelos;São Paulo;SP
+263;264;Ceilândia;Distrito Federal;DF
+264;265;Ituiutaba;Minas Gerais;MG
+265;266;Crato;Ceará;CE
+266;267;Conselheiro Lafaiete;Minas Gerais;MG
+267;268;Nova Serrana;Minas Gerais;MG
+268;269;Ipatinga;Minas Gerais;MG
+269;270;Mangaratiba;Rio de Janeiro;RJ
+270;271;Samambaia;Distrito Federal;DF
+271;272;Maracanaú;Ceará;CE
+272;273;Formosa;Goiás;GO
+273;274;Santa Isabel do Rio Negro;Amazonas;AM
+274;275;Iguatu;Ceará;CE
+275;276;Santa Cruz do Sul;Rio Grande do Sul;RS
+276;277;Guarapari;Espírito Santo;ES
+277;278;Umuarama;Paraná;PR
+278;279;Itaguaí;Rio de Janeiro;RJ
+279;280;Itapetininga;São Paulo;SP
+280;281;São José de Ribamar;Maranhão;MA
+281;282;Paraty;Rio de Janeiro;RJ

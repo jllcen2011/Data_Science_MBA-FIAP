@@ -1,0 +1,236 @@
+id_loja;Nome;Endereço;id_cidade
+0;Petz Abelardo Bueno;Av. Embaixador Abelardo Bueno, 3140;5
+1;Petz Agamenon;Av. Gov. Agamenon Magalhães, 3855;29
+2;Petz Aldeota;Av. Barão de Studart, 999;4
+3;Petz Alphaville;Av. Alphaville, 580;99
+4;Petz Alto da Boa Vista;Av. Adolfo Pinheiro, 1600;3
+5;Petz Americana;Av. Paulista, 985;153
+6;Petz Ana Costa;Avenida Ana Costa, 215;49
+7;Petz Anália Franco;Av. Regente Feijó, 677;3
+8;Petz Angélica;Av. Angélica, 2011;3
+9;Petz Anhaia Mello;Av. Prof. Luiz Ignacio Anhaia Mello, 5657 - Junto ao Roldão;3
+10;Petz Aracaju;Av. Ministro Geraldo Barreto Sobral, 140;132
+11;Petz Araçatuba;Av. Brasília, 2737;186
+12;Petz Aricanduva;Av.Rio das Pedras, 2207 - Junto a Telha Norte;3
+13;Petz Augusta;Rua Augusta , 215;3
+14;Petz Avenida Goiás;Avenida Goiás, 889;11
+15;Petz Balneário Camboriú;Av. do Estado, 4888;85
+16;Petz Bandeirantes;Av. dos Bandeirantes, 2040;3
+17;Petz Bangu Shopping;Rua Fonseca, 240 - Área Ext, próximo a Portaria 2;5
+18;Petz Barra Américas;Avenida das Américas, 6571 - Lote 02 Pal 45164;5
+19;Petz Bauru;RUA RUBENS PAGANI , 444;19
+20;Petz Belém;Av. Nª Sra. de Nazaré, 121;64
+21;Petz Bento Gonçalves;R. Fortaleza, 362;126
+22;Petz Betim;Av. Juiz Marco Tulio Isaac, 470;104
+23;Petz Blumenau;R. São Paulo, 1629;23
+24;Petz Boa Viagem;Rua Professor João Medeiros, 139;29
+25;Petz Bosque Maia;Av. Paulo Faccini, 1385;33
+26;Petz Botafogo;Rua General Polidoro, 113;5
+27;Petz Brasília Asa Norte;ST STN, Conjunto D, BLOCO 2/B, S/N - TERMINAL NORTE CONJ D BLOCO2/B;27
+28;Petz Brasília Epia;Epia Sul, , Lote 3;27
+29;Petz Brasília Jardim Botânico;Av. Das Paineiras - Q. 1 Lote E , S/N - Próximo a Paróquia Santa Clara;27
+30;Petz Brasília SIA;SIA trecho 02, Lotes 65/95 , 65/95;27
+31;Petz Brasília W3 Norte;Comércio Residencial Norte, 502;27
+32;Petz Bueno T63;Av T63, S/N - Quadra 143 lote 4/13;36
+33;Petz Butantã;Av. Professor Francisco Morato, 1796 - 1798;3
+34;Petz Cambuí;Av. Doutor Moraes Sales, 2326;1
+35;Petz Campo Grande;Av. Afonso Pena, 5420;25
+36;Petz Campo Grande Rio;Estrada da Cachamorra, 200;5
+37;Petz Canoas;Avenida Getúlio Vargas, 6401;7
+38;Petz Caraguatatuba;Rua Vereador Antônio Cruz Arouca, 200;163
+39;Petz Carapicuíba;Avenida Inocêncio Seráfico, 3375;121
+40;Petz Carlos Berta;R. Antônio Carlos Berta, 345;9
+41;Petz Carlos Luz;Avenida Presidente Carlos Luz, 710;16
+42;Petz Carrefour Anchieta;Av .Marginal Direita Anchieta, 3398;3
+43;Petz Carrefour Imigrantes;R. Ribeiro Lacerda, 940 - Estacionamento G3 Carrefour;3
+44;Petz Carrefour Manilha;R. Oliveira Botelho, 349 - Dentro do Carrefour Manilha;96
+45;Petz Carrefour Ribeirão Shopping;Av Coronel Fernando Ferreira Leite, 1540 - Ribeirão Shopping;17
+46;Petz Carrefour São Caetano;Avenida do Estado, 1750 - junto ao Carrefour;11
+47;Petz Carrefour Tietê;Av. Morvan Dias de Figueiredo, 3177;3
+48;Petz Cascavel;Avenida Brasil, 4254;70
+49;Petz Catuai Londrina;Rod. Mabio Gonçalves Palhano, 195 - em frente ao Catuaí Shopping;102
+50;Petz Cavalhada;Av. Eduardo Prado, 415;9
+51;Petz Caxias do Sul;Av Rubens Bento Alves, 8457;147
+52;Petz Center Minas;Av. Pastor Anselmo Silvestre, 1395 , 1495 - Shopping Center Minas;16
+53;Petz Center Norte;Shopping Center Norte - Tv. Casalbuono, 120 - Alameda de Serviços;3
+54;Petz Center Shopping Uberlândia;Av. João Naves de Ávila, 1331;18
+55;Petz Cerro Corá;Rua Cerro Corá, 1950;3
+56;Petz Cidade Jardim;Av dos Tajuras, 147 - 161;3
+57;Petz Congonhas;Av. Moreira Guimarães, 631 - 657;3
+58;Petz Contagem;Av. Babita Camargos, 1295 - Loja 03;53
+59;Petz Contagem João Cesar;Av. João César de Oliveira, 5750;53
+60;Petz Continente;R. Martinho Boschetti, 2083;134
+61;Petz Copacabana;Av. Nossa Senhora de Copacabana, 1246;5
+62;Petz Cotia;Rodovia Raposo Tavares KM 21, 5650 - Acesso também pela Rua Damasco;109
+63;Petz Diadema;Av. Fábio Eduardo Ramos Esquivel, 1100;34
+64;Petz Diário de Notícias;Avenida Diário de Notícias, 1500;9
+65;Petz Djalma Batista;Av. Djalma Batista, 3000;13
+66;Petz Dom Pedro;Av. Guilherme Campos, 500 - Shopping Parque Dom Pedro;1
+67;Petz Edgar Facó;Av. Gen. Edgar Facó, 848;3
+68;Petz Enseada;Av. Dom Pedro I, S/N - LOTE 1 E 2;44
+69;Petz Extra Barra da Tijuca;Av. das Américas, 1510;5
+70;Petz Extra Colinas;Av. Jorge Zarur, 100;120
+71;Petz Extra Maracanã;Rua José Higino, 115 - Dentro do Extra Maracanã;5
+72;Petz Fernando Corrêa;Avenida Fernando Corrêa da Costa, 1682;38
+73;Petz Florianópolis;Rodovia José Carlos Daux, 5500 - Square SC Corporate;6
+74;Petz Florianópolis Centro;Av. Mauro Ramos, 1586;6
+75;Petz Foz do Iguaçu;Av. Paraná, 1314;26
+76;Petz Franca;Av. Dr. Ismael Alonso Y Alonso, 450;90
+77;Petz Gama Leste;SIND QI 1 - Pte. Alta Norte, S/N;27
+78;Petz Gastão Vidigal;Av. Dr. Gastão Vidigal, 1555;3
+79;Petz Gilberto Salomão;BL. F, Shis Qi 5 Conjunto 16, 5;27
+80;Petz Giovanni Gronchi;Av. Giovanni Gronchi, 3280;3
+81;Petz Giovanni Pirelli;Rua Giovanni Battista Pirelli, 1645;43
+82;Petz Governador Valadares;Av. Brasil, 3585;240
+83;Petz Gravataí;Av. Dorival Candido Luz de Oliveira, 900 - Cohab C;174
+84;Petz Guarujá;Av. Adhemar de Barros, 1935;44
+85;Petz Guarulhos;Av. Guarulhos, 2598;33
+86;Petz Guarulhos Pimentas;Estr. Juscelino Kubtischek de Oliv., 4380;33
+87;Petz Hortolândia;Av. Santana, 970;61
+88;Petz Iguatemi Esplanada;Av. Gisele Constantino, 1850 - Shopping Iguatemi Esplanada;247
+89;Petz Ilha do Governador;Estrada do Galeão, 1770;5
+90;Petz Indaiatuba;Alameda Filtros Mann, 670 - Polo Shopping Indaiatuba;117
+91;Petz Independência Shopping;Av. Presidente Itamar Franco, 3600;54
+92;Petz Ipiranga;Av. Presidente Tancredo Neves, 600;3
+93;Petz Itaim;R. Bandeira Paulista, 982;3
+94;Petz Itanhaém;Av. Rui Barbosa, 540;#N/D
+95;Petz Itapecerica;Estr. de Itapecerica, 934;3
+96;Petz Itapetininga;Av. Peixoto Gomide, 317;280
+97;Petz Itatiba;Avenida Marechal Castelo Branco, 55;189
+98;Petz Itu;Av. Dr. Otaviano Pereira Mendes, 1254;39
+99;Petz Jaboatão dos Guararapes;Av. Ayrton Senna da Silva, 1485;124
+100;Petz Jacu Pêssego;Av Jacu Pêssego , 4710;3
+101;Petz Jaguaré;Avenida Corifeu de Azevedo Marques, 4529 - lado ímpar da Corifeu;3
+102;Petz Jardim Botânico;R. Jardim Botânico, 733;5
+103;Petz Jardim Icaraí;R. Dr. Paulo César, 249;32
+104;Petz Jaú;Avenida Doutor Quinzinho , 51;130
+105;Petz João Firmino;Av. João Firmino, 342;41
+106;Petz Joinville;R. Dr. João Colin, 940;31
+107;Petz Juiz de Fora;Avenida Rio Branco, 3820;54
+108;Petz Jundiaí;Av. Antonio Frederico Ozanan, 3003 - Junto ao Atacadista Roldão;142
+109;Petz Jundiaí Anhanguera;Av. Dr. Adilson Rodrigues, 77;142
+110;Petz Lauzane Paulista;Avenida Direitos Humanos, 1436;3
+111;Petz Limão;Av. Otaviano Alves de Lima, 1480;3
+112;Petz Linha Verde;Av. Caviúna, 548;2
+113;Petz Litoral Plaza;Av. Ayrton Senna da Silva, 1511 - Litoral Plaza Shopping;89
+114;Petz Londrina Tiradentes;Av. Tiradentes, 1919;102
+115;Petz Manuel Gaya;Rua Manuel Gaya, 2000;3
+116;Petz Maraponga;Av. Godofredo Maciel, 2560;4
+117;Petz Marechal Tito;Avenida Marechal Tito, 5699 - Junto ao MercadoCar;3
+118;Petz Marginal Tietê 24h;Av. Presidente Castelo Branco, 1795;3
+119;Petz Maringá;Av. Paraná, 1250;110
+120;Petz Mateus Leme;Rua Mateus Leme, 1875;2
+121;Petz Miguel Sutil;Av. Miguel Sutil , 10000;38
+122;Petz Mogi das Cruzes;Av. Francisco Rodrigues Filho, 1550;56
+123;Petz Mogi Guaçu;Av. Mogi Mirim, 970;#N/D
+124;Petz Moinhos de Vento;Rua Quintino Bocaiúva, 433;9
+125;Petz Mooca;Av. Paes de Barros, 1654;3
+126;Petz Mooca Plaza Shopping;R. Cap. Pacheco e Chaves, 313;3
+127;Petz Morumbi;Rua Aureliano Guimarães, 201;3
+128;Petz Nações Unidas;Avenida das Nações Unidas, 20727;3
+129;Petz Natal;Av. Sen. Salgado Filho, 2431;50
+130;Petz Natal Zona Norte;Av. Dr. João Medeiros Filho, 1420;50
+131;Petz Nordestina;Av. Nordestina, 2740;3
+132;Petz Norte Sul Plaza;Av. Presidente Ernesto Geisel, 2300 - Shopping Norte Sul Plaza;25
+133;Petz Nossa Senhora do Carmo;Av. Nossa Senhora do Carmo, 1448;16
+134;Petz Nova Iguaçu;Av. Abílio Augusto Távora, 292;103
+135;Petz Novo Hamburgo;Rua Castro Alves, 205;182
+136;Petz Osasco;Av. dos Autonomistas, 1473 - Parte A;10
+137;Petz Pacaembu;Praça Charles Miller, 117;3
+138;Petz Palmas;Q. 101 Sul Avenida LO 3, S/N;14
+139;Petz Pampulha;Av. Professor Magalhães Penido, 1000;16
+140;Petz ParkShopping Brasília;ParkShopping Brasília, - SMAS Trecho 1;27
+141;Petz Parnamirim;Av. Dezessete de Agosto, 295;29
+142;Petz Parque Flamboyant;Av. Deputado Jamel Cecílio, 2697 - quadra B16, lotes 17/19;36
+143;Petz Parque Shopping Bahia;Avenida Santos Dumont, 4360;146
+144;Petz Parque Shopping Maceió;Av. Comendador Gustavo Paiva, 5945;37
+145;Petz Passeio das Águas;Av. Perimetral Norte, 8303 - Fazenda das Caveiras;36
+146;Petz Pelotas;Avenida Ferreira Viana, 1511;20
+147;Petz Pereira Barreto;Rua Thales Dos Santos Freire, 36 - Quadra 8B LOT 26,27,28,29 e 30;41
+148;Petz Piracicaba;Av. Centenário, 780;28
+149;Petz Pituba;Av. Manoel Dias da Silva, 1251;47
+150;Petz Plaza Avenida Shopping;Av. José Munia, 4775 - Shopping Plaza Avenida, Piso T;74
+151;Petz Poços de Caldas;Av. João Pinheiro, 711;144
+152;Petz Pompeia;Av. Francisco Matarazzo, 2000 - Complexo SP MEGA STORES;3
+153;Petz Ponta Verde;R. Prof. Sandoval Arroxelas, 1078;37
+154;Petz Porto Velho Shopping;Av. Pref. Chiquilito Erse, 3288;221
+155;Petz Praia Grande;Av. Presidente Kennedy, 2900;89
+156;Petz Presidente Kennedy;Av. Sgt. Hermínio Sampaio, 2965 - ao lado do Assaí Atacadista;4
+157;Petz Presidente Prudente;Av. Manoel Goulart, 2671;66
+158;Petz Protásio Alves;Av. Protásio Alves, 4194 - Loja 2;9
+159;Petz Radial Leste;Av. Alcântara Machado , 3300;3
+160;Petz Raja Gabaglia;Avenida Raja Gabaglia, 3230;16
+161;Petz Ribeirão Independência;Avenida Independência , 1810;17
+162;Petz Ribeirão Presidente Vargas;Av. Pres. Vargas, 2265;17
+163;Petz Ricardo Jafet;Av. Dr. Ricardo Jafet, 1750;3
+164;Petz Rio Claro;Avenida Presidente Kennedy, 414;214
+165;Petz Rio Grande;Avenida Presidente Vargas, 794;69
+166;Petz Riomar;Av. República do Líbano, 251 - Shopping RioMar Recife;29
+167;Petz Rita Maria;Rua Henrique Valgas, 64;6
+168;Petz Roberto Freire;Avenida Engenheiro Roberto Freire, 20;50
+169;Petz Ruben Bento Alves;Av. Rubem Bento Alves, 3483;147
+170;Petz Salvador Bonocô;Av. Mario Leal Ferreira, 500;47
+171;Petz Salvador Paralela;Av. Luís Viana, 2768;47
+172;Petz Santa Bárbara D'Oeste;Av. Corifeu de Azevedo Marques, 1064;#N/D
+173;Petz Santa Cecília;Av. General Olímpio da Silveira, 68;3
+174;Petz Santo André;Av. Ramiro Colleoni , 355;43
+175;Petz Santo André Dom Pedro;Av. Dom Pedro II, 933;43
+176;Petz Santos Dumont;Avenida Santos Dumont, 5650;4
+177;Petz Santos Macuco;Rua Dr. Manoel Tourinho, 385;49
+178;Petz São Bernardo;Av. Rotary, 825 - junto ao Center Castilho;41
+179;Petz São Carlos;Av. Francisco Pereira Lopes, 1701;67
+180;Petz São José do Rio Preto;Av. Pres. Juscelino K. Oliveira, 400;74
+181;Petz São Luís;Av. Daniel De La Touch, 10240;24
+182;Petz São Miguel;Av. São Miguel, 7988;3
+183;Petz São Vicente;Avenida Antônio Emmerick, 23;45
+184;Petz Seminário;Av. Nossa Senhora Aparecida, 582;2
+185;Petz Serra;Avenida Eldes Scherrer Souza, 1511;148
+186;Petz Sete Lagoas;Avenida Raquel Teixeira Viana, 983;114
+187;Petz Shopping Golden Square;Avenida Kennedy, 700;41
+188;Petz Shopping Grande Rio;R. Maria Soares Sendas, 111;75
+189;Petz Shopping Grand Plaza;Av. Industrial, 600;43
+190;Petz Shopping Itaguaçu;R. Gerôncio Thives, 1079;134
+191;Petz Shopping Jockey Plaza;R. Konrad Adenauer, 370;2
+192;Petz Shopping Mauá;Av. Gov. Mario Covas Júnior, 01;118
+193;Petz Shopping Pantanal;Av. Historiador Rubens de Mendonça, 3.300;38
+194;Petz Shopping Sul Valparaíso;Q. 1 Valparaíso Shopping, S/N;91
+195;Petz Sorocaba;Av. Dom Aguirre, 2121;81
+196;Petz Sorocaba Tauste;Avenida General Carneiro, 1120 - Loja 08;81
+197;Petz Sumaré;Av. da Amizade, 2371;151
+198;Petz Suzano;Rua Sete de Setembro, 555;232
+199;Petz Taboão da Serra;R. do Tesouro, 662;3
+200;Petz Taguatinga;Quadra QS 1, Rua 212, S/N - Lote 11, 13 e 15;27
+201;Petz Tamboré;Alameda Araguaia, 2179 - Parte A,junto à Kalunga;99
+202;Petz Teodoro Sampaio;Rua Teodoro Sampaio, 1424;3
+203;Petz Teotônio Vilela;Av. Senador Teotônio Vilela , 4482;3
+204;Petz Teresina;Av. João XXIII, 1176;8
+205;Petz Torquato Tapajós;Av. Torquato Tapajós, 313;13
+206;Petz Torres;Av. Com. Franco, 2958;2
+207;Petz Trimais;Av. Tucuruvi, 220 - Shopping Trimais;3
+208;Petz Uberaba;Av. Leopoldino de Oliveira, 4001;152
+209;Petz Uberlândia;Av. Rondon Pacheco, 505;18
+210;Petz Várzea Grande;Av. João Ponce de Arruda, 1096;208
+211;Petz Vicente Rao;Av. Professor Vicente Rao, 1700;3
+212;Petz Vila Galvão;R. Maria Primo de Jesus, 47/69;33
+213;Petz Vila Isabel;Rua Teodoro da Silva, 668;5
+214;Petz Vila Mariana;Rua Vergueiro, 2604;3
+215;Petz Vila Matilde;Avenida Conde de Frontin, 2416;3
+216;Petz Vila Velha;Rodovia do Sol, 256;42
+217;Petz Vitória;Av. Nossa Senhora da Penha, 1819;93
+218;Petz Washington Luís;Av. Washington Luís, 2737;3
+219;Petz Washington Soares;Av. Washington Soares, 2300;4
+220;Zee.Now Hub ABC;AV SENADOR VERGUEIRO, 3315;41
+221;Zee.Now Hub Barra;AV MALIBU, 260 - BLC 01 LOJ 105;5
+222;Zee.Now Hub Belo Horizonte;RUA CEARA, 1679 - LOJA 1 N 1679 LOJA 2 N 1681 LO;16
+223;Zee.Now Hub Botafogo;RUA DA PASSAGEM, 67 - TERREO ANDAR INTEIRO;5
+224;Zee.Now Hub Brasília;Q SAAN QUADRA 2, S/N - LOTE 430 PARTE 3-A;27
+225;Zee.Now Hub Curitiba;RUA BRASILIO ITIBERE, 2575;2
+226;Zee.Now Hub Florianópolis;RUA CRISPIM MIRA, 319;6
+227;Zee.Now Hub Fortaleza;AVENIDA BARÃO DE STUDART, 570;4
+228;Zee.Now Hub Higienópolis;RUA CONS NEBIAS, 1114;3
+229;Zee.Now Hub Itaim;RUA CLODOMIRO AMAZONAS, 719;3
+230;Zee.Now Hub Méier;RUA BARÃO DO BOM RETIRO, 997;5
+231;Zee.Now Hub Niteroi;RUA NORONHA TORREZAO, 165;32
+232;Zee.Now Hub Porto Alegre;RUA ALMIRANTE BARROSO, 102 - PAVILHÃO B;9
+233;Zee.Now Hub Recife;AVENIDA ANTONIO DE GOES, 115 - LOJA 0000;29
+234;Zee.Now Hub Vitória;RUA KLEBER NASCIMENTO FERREIRA, 60;93
