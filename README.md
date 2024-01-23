@@ -50,3 +50,30 @@ GAN is trained using the MNIST dataset to create new images of handwritten digit
 
 ### 2.4) Transfer Learning:
 Employing the Transfer Learning approach for the recognition and classification of images, specifically those of dogs and cats.
+
+
+## 3) Natural Language Processing (NLP):
+
+### 3.1) Text Processing:
+
+Initially, the Gensim library's Word2Vec technique is employed to produce word embeddings. These are dense vector representations of words, where similar words have corresponding similar representations, effectively capturing the semantic meaning of words.
+
+Subsequently, the Bag of Words (BoW) method is utilized, particularly in document classification. This approach focuses solely on the occurrence of words within a document.
+
+Following this, text mining tools such as NLTK and Spacy are applied for tasks like tokenization and lemmatization, which are crucial in text processing.
+
+Next, the TfIdf-Vectorizer is used as a tool to evaluate the significance of words in a document, within a collection of documents. Here, it's specifically applied to classify emails as spam or non-spam.
+
+Finally, a Word Cloud representation is created for text data, where the size of each word indicates its frequency or importance. Additionally, the Net Promoter Score (NPS) is utilized to gauge customer loyalty and satisfaction. By highlighting the most frequently mentioned words in customer responses, we gain valuable insights into overall customer sentiment.
+
+### 3.2) Image Processing:
+
+Processed using Computer Vision: image recognition and image generation.
+
+### 3.3) Audio Processing:
+
+Processing audio signals using the Librosa library in Python.
+
+### 3.4) Geospatial Processing:
+
+Handled with Geographic Information Systems (GIS) and other geospatial data processing techniques. These are used for mapping, spatial analysis, and understanding geographic relationships in data.
